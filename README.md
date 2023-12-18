@@ -8,8 +8,8 @@ Why don't I just publish this all on WordPress, Medium, LinkedIn or some other s
 ## Published Stuff
 Here are a few of the published works that closely mirror the content here:
 
-[Medium](https://medium.com/@mrichard91)
-[Linkedin](https://www.linkedin.com/in/actual-mjr/)
+* [Medium](https://medium.com/@mrichard91)
+* [Linkedin](https://www.linkedin.com/in/actual-mjr/)
 
 #### Cyber Threat Intel
 * [Omnipotent adversary fallacy — should you give up your asymmetric advantages in cyber threat intel?](https://medium.com/@mrichard91/omnipotent-adversary-fallacy-should-you-give-up-your-asymmetric-advantages-in-cyber-threat-intel-55cc9dbbab4)
