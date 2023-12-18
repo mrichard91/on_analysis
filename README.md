@@ -9,7 +9,7 @@ Why don't I just publish this all on WordPress, Medium, LinkedIn or some other s
 Here are a few of the published works that closely mirror the content here:
 
 [Medium Page](https://medium.com/@mrichard91)
-[Linkedin](https://www.linkedin.com/in/richardmatthew/)
+[Linkedin](https://www.linkedin.com/in/actual-mjr/)
 
 #### Cyber Threat Intel
 * [Omnipotent adversary fallacy — should you give up your asymmetric advantages in cyber threat intel?](https://medium.com/@mrichard91/omnipotent-adversary-fallacy-should-you-give-up-your-asymmetric-advantages-in-cyber-threat-intel-55cc9dbbab4)
@@ -25,6 +25,14 @@ Here are a few of the published works that closely mirror the content here:
 #### Running
 * [Stonecat Race Report — First 50 miler](https://medium.com/@mrichard91/stonecat-race-report-first-50-miler-60952598a2d3)
 * [The life lessons of faceplanting](https://medium.com/@mrichard91/the-life-lessons-of-faceplanting-6dfbab916a48)
+
+#### Patents
+* [Detecting malware using stored patterns](https://patentimages.storage.googleapis.com/f3/a3/ce/2702b788bd3a29/US8635700.pdf)
+* [System and method for detecting malware in documents](https://patentimages.storage.googleapis.com/be/f2/36/67101d454d75e2/US9213837.pdf)
+
+#### Contributions to books
+* [Malware Analyst's Cookbook and DVD: Tools and Techniques for Fighting Malicious Code](https://www.wiley.com/en-us/Malware+Analyst%27s+Cookbook+and+DVD%3A+Tools+and+Techniques+for+Fighting+Malicious+Code-p-9780470613030) (Ch 8)
+* [Cyber Fraud Tactics, Techniques and Procedures](https://archive.org/details/CyberFraudTacticsTechniquesAndProcedures.pdf) (Ch 10, 12)
 
 ## Ownership
 Sometimes I share copies of content that contains copyrights, company logos and non-public stories about working at different companies. To the best of my knowledge the information I share does not violate any NDA, copyright or other protection of the works. I leverage content that has been presented publicly, can be second sourced or represents my personal experiences. In some cases, I have secured permission to share and have done my best to honor all past obligations for confidentiality. If you come across something you feel violates this principle, please email me at matt.richard@gmail.com and I will do my best to update or remove it.
