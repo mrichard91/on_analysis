@@ -1,7 +1,6 @@
 import os
 import sys
 import requests
-import markdown
 from dotenv import load_dotenv
 
 load_dotenv()
