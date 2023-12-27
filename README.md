@@ -12,6 +12,7 @@ Here are a few of the published works that closely mirror the content here:
 * [Linkedin](https://www.linkedin.com/in/actual-mjr/)
 
 #### Cyber Threat Intel
+* [The Mistaken Powdesk Threat Intel](https://medium.com/@mrichard91/the-mistaken-powdesk-malware-81ded75febce)
 * [Omnipotent adversary fallacy — should you give up your asymmetric advantages in cyber threat intel?](https://medium.com/@mrichard91/omnipotent-adversary-fallacy-should-you-give-up-your-asymmetric-advantages-in-cyber-threat-intel-55cc9dbbab4)
 * [Common Cyber Threat Intel Biases](https://medium.com/@mrichard91/common-cyber-threat-intel-biases-9d6f410f5829)
 * [LinkedIn GAN Network Analysis](https://medium.com/@mrichard91/linkedin-gan-network-analysis-de55a0b6526e)
